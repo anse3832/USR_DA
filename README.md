@@ -17,6 +17,7 @@ First, you need to download the NTIRE dataset.
 - Download the dataset from this link: https://competitions.codalab.org/competitions/22221
 - In the link, downlod all data related to NTIRE20
 - After download the dataset, the dataset should be composed as below
+
 ![캡처](https://user-images.githubusercontent.com/77471764/139184554-f79e0efb-ef0e-4411-8f11-203b69c6c964.PNG)
 - Set the database path in "./opt/option.py" (It is represented as "dir_data")
 
